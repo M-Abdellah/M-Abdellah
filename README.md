@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Mohamed Abdellah
-<p align="center"> <a href="https://www.linkedin.com/in/mohamed-abdellah-13081a198/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" height="30" width="30" style="filter: invert(27%) sepia(92%) saturate(749%) hue-rotate(179deg) brightness(92%) contrast(92%);" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/mohamed-abdellah-13081a198/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" height="55" width="55" style="filter: invert(27%) sepia(92%) saturate(749%) hue-rotate(179deg) brightness(92%) contrast(92%);" /> </a> </p>
 
 
 👨‍💼 Professional Bio
