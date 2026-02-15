@@ -27,7 +27,7 @@ I bring a strong foundation in communication and analysis. Certified in SQL, Pyt
 
 
 🧰 Tech Stack
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65" height="55"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="55" height="55"/> </p>
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65" height="55"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="55" height="55"/> </p>
 
 
 🚀 What I Do
